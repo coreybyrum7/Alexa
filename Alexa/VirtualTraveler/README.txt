@@ -1,0 +1,3 @@
+I've created an alexa skill that uses AWS's Lambda service. The lambda service uses Alexa to only use resources when invoked, there are no static services running.
+This particular program allows a user to invoke Alexa saying "Alexa, ask Virtual Traveler..." for example, "Alexa, ask Virtual Traveler where I should travel to next". Alexa responds by searching an array at random for a string containing a location and it's description as to why you should travel there.
+This is my first Alexa skill and it's been certified by Amazon. Since it is certified, it can be enabled and used by anyone with an Echo or Alexa enabled device! Go download it (:
